@@ -13,6 +13,8 @@ Bifrons 预计会支持Python、Java、Go、js、C#等SDK封装
 
 Bifrons 是面向那些需要快速构建图片卡片，或者需要比svg更高级的功能所设计的，Bifrons在这些场景比 playwright 更轻量、快速，比svg语法更简洁，适合生成需要高效阅览、效果更好的图片或网页组件。
 
+TODO: 一些有关于C Python API的问题，再看一看文档，确定最大的兼容性方案后再实施
+
 # 使用
 
 - preconstruct_0
